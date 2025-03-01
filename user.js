@@ -1,0 +1,17 @@
+/*[
+    {
+        "id":1,
+        "email":"goudqli@gmail.com",
+        "password":"312133"
+    },
+    {
+        "id":2,
+        "email":"nour@gmail.com",
+        "password":"dfdfk4j"
+    },
+    {
+        "id":3,
+        "email":"nrgoudqli@gmail.com",
+        "password":"4321dcas"
+    }
+]*/

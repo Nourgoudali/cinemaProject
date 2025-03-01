@@ -1,0 +1,15 @@
+.Toastify__toast {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #ffffff;
+    color: green;
+    border-radius: 10px;
+    padding: 10px;
+    font-size: 16px;
+    position: fixed;
+    top: 5%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 1;
+}

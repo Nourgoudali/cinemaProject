@@ -1,0 +1,19 @@
+body {
+    background-color: black;
+}
+.card:hover img {
+    transform: translateY(10px);
+}
+
+.card img {
+    transition: transform 0.8s ease;
+}
+
+.scrollbar-hide {
+    scrollbar-width: none; /* For Firefox */
+    -ms-overflow-style: none; /* For Internet Explorer and Edge */
+}
+
+.scrollbar-hide::-webkit-scrollbar {
+    display: none; /* For Chrome, Safari, and Opera */
+}
